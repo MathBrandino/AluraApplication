@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_lancar_notas"
+        android:icon="@drawable/resultados"
+        android:title="Lançar Notas"/>
+
+    <item
+        android:id="@+id/menu_visualizar_notas"
+        android:icon="@drawable/lista"
+        android:title="Notas" />
+
+    <item
+        android:id="@+id/menu_melhores_alunos"
+        android:icon="@drawable/trofeu"
+        android:title="Melhores Alunos"/>
+
+
+</menu>
